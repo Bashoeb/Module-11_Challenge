@@ -1,4 +1,4 @@
-**Module_11_Challenge Mars Data Scraping and Analysis**
+**Module 11 - Challenge Mars Data Scraping and Analysis**
 
 This project has scraping Mars news articles and Mars weather data, and analyzing the collected data. The scraping and analysis tasks are divided into two parts.
 
