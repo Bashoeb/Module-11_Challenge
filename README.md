@@ -12,7 +12,7 @@ This project has scraping Mars news articles and Mars weather data, and analyzin
 6. Import seaborn
 7. From splinter import Browser
 8. From bs4 import BeautifulSoup as soup
-9. Import json
+
 
    
 **Part 1: Scrape and Analyze Mars Weather Data**
