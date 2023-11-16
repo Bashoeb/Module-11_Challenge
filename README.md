@@ -20,8 +20,6 @@ This project has scraping Mars news articles and Mars weather data, and analyzin
 1. Open the Jupyter Notebook file named Part_1_Mars_News_Analysis_SyedHasan.ipynb provided. This notebook will be used to perform the scraping of Mars news articles.
 2. Use automated browsing techniques to visit the Mars news website and inspect the page to identify the elements to be scraped.
 3. Extract the titles and preview text of the news articles from the website and store the scraping results in   Python data structures. Each title-and-preview pair will be stored in a Python dictionary with the keys 'title' and 'preview'.
-4. Store all the dictionaries in a Python list.
-5. Print the list of scraped data in the Jupyter Notebook and store the output in a JSON file called "Title_Preview.JSON".
    
 **Part 2: Design Your Climate App**
 
