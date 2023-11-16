@@ -27,7 +27,7 @@ This project has scraping Mars news articles and Mars weather data, and analyzin
 2. Use automated browsing techniques to visit the Mars Temperature Data website and inspect the page to identify the elements to be scraped. The URL for the website is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 3. Assemble the scraped data into a Pandas DataFrame with columns matching the headings of the table on the website.
 4. Perform the following analyses on the Mars weather data:
-5. Determine the number of months that exist on Mars.
+5. Determine the number of months.
 6. Calculate the number of Martian days worth of data available in the scraped dataset.
 7. Identify the coldest and warmest months on Mars at the location of Curiosity by finding the average minimum daily temperature for each month and plotting the results as a bar chart.
 8. Determine the months with the lowest and highest atmospheric pressure on Mars by finding the average daily atmospheric pressure for each month and plotting the results as a bar chart.
